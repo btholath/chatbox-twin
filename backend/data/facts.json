@@ -1,0 +1,21 @@
+{
+  "full_name": "Biju Tholath",
+  "name": "Biju",
+  "current_role": "AI/ML Engineer",
+  "location": "Los Angeles",
+  "email": "biju.tholath@gmail.com",
+  "linkedin": "linkedin.com/in/biju-tholath/",
+  "specialties": [
+    "Your specialty 1",
+    "Your specialty 2",
+    "Your specialty 3"
+  ],
+  "years_experience": 10,
+  "education": [
+    {
+      "degree": "Bachelor degree in Commerce - Accounting",
+      "institution": "University of Calicut",
+      "year": "1991"
+    }
+  ]
+}
