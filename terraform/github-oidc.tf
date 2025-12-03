@@ -2,7 +2,7 @@
 # Run this once, then you can remove the file
 
 variable "github_repository" {
-  description = "GitHub repository in format 'owner/repo'"
+  description = "GitHub repository in format 'btholath/chatbox-twin'"
   type        = string
 }
 
